@@ -1,9 +1,21 @@
 {
   "name": "game-gopay-maxwin",
   "main": "./lib/game-gopay",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "Link Daftar Slot Deposit Gopay 10000 Jackpot Besar - Lexusmpo",
-"keywords": ["slot deposit gopay 10000","slot gopay","lexusmpo","mpo slot online","mpo slot gopay 10000","agen gopay","deposit gopay jackpot besar","bandar slot gopay","slot pg soft","agen pg soft","slot gopay pragmatic"],
+  "keywords": [
+    "slot deposit gopay 10000",
+    "slot gopay",
+    "lexusmpo",
+    "mpo slot online",
+    "mpo slot gopay 10000",
+    "agen gopay",
+    "deposit gopay jackpot besar",
+    "bandar slot gopay",
+    "slot pg soft",
+    "agen pg soft",
+    "slot gopay pragmatic"
+  ],
   "activationCommands": {
     "atom-workspace": "game-gopay:toggle"
   },
